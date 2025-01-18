@@ -75,7 +75,7 @@ Props Detailed:
 
         Ranges from small to extra large using number values 1-4
 
-        Defaults to 3 (large), 150px X 150px
+        Defaults to 3 (large), 300px X 300px
 
         Examples:
 
